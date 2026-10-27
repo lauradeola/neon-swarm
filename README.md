@@ -6,7 +6,7 @@ Survivor de arena em neon feito do zero com **JavaScript puro e Canvas 2D**, sem
 ![Gameplay](docs/gameplay.gif)
 -->
 
-**Jogar online:** https://SEU-USUARIO.github.io/neon-swarm/
+**Jogar online:** https://lauradeola.github.io/neon-swarm/
 
 ## Como jogar
 
