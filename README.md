@@ -58,7 +58,7 @@ Os arquivos são scripts clássicos que compartilham estado global, carregados e
 ## Rodar localmente
 
 ```bash
-git clone https://github.com/SEU-USUARIO/neon-swarm.git
+git clone https://github.com/lauradeola/neon-swarm.git
 cd neon-swarm
 python3 -m http.server 8000
 ```
